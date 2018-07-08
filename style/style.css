@@ -1,0 +1,11 @@
+a:hover{
+    text-decoration: none;
+}
+
+.card {
+    height: 530px;
+}
+
+.card-img-top{
+    max-height: 270px;
+}
